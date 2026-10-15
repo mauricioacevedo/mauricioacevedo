@@ -2,7 +2,7 @@
 
 **Senior Software Engineer · Tech Lead · Go & Java microservices** — Medellín, Colombia 🇨🇴
 
-I've been building software since 2005. In recent years I've worked on backend platforms at
+Over the last several years I've worked on backend platforms at
 **Uber** (via Truelogic), **Mercado Libre**, **Rappi** and **Conekta**, as a senior engineer, squad lead
 and technical leader. I specialize in microservices architecture and the whole delivery lifecycle,
 from design to production.
@@ -25,7 +25,7 @@ tune microservice performance and refactor production systems. I'm now building 
 | 2021 – 2022 | **Conekta** (Mexico) | Technical Leader | Led the Cashflow team: Go and Ruby microservices, PostgreSQL, MySQL, Kafka |
 | 2020 – 2021 | **Mercado Libre** | Senior Software Engineer | Insurtech team: Go, Node.js and Java microservices on AWS. Mentored new engineers |
 | 2019 – 2020 | **Rappi** | Squad Lead | Led the RappiMall backend team: polyglot microservices (Go, Node.js, Java), stock and pricing algorithms |
-| 2005 – 2019 | Summan, UNE EPM, OSP International | Consultant / Developer | Telecom platforms, automation and data analytics (Java/J2EE, Splunk) |
+| 2019 | **Summan** | Consultant | Data analytics solution for a large cement company, using Splunk and machine learning |
 
 ---
 
