@@ -58,14 +58,14 @@ tune microservice performance and refactor production systems. I'm now building 
 
 ---
 
-<!--
 ### 🤖 AI & developer tools
-Uncomment and fill in as each project is published.
+
+Open-source [MCP](https://modelcontextprotocol.io) servers that give AI assistants (Claude, ChatGPT and any MCP client) safe access to backend infrastructure. Built with Claude Code.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [project-name](https://github.com/mauricioacevedo/project-name) | One-line description | Go · Claude API · MCP |
--->
+| [grpc-explorer-mcp](https://github.com/mauricioacevedo/grpc-explorer-mcp) | Lets an AI discover, describe and call gRPC services through server reflection, with no `.proto` files needed. Read-only by default, with a target allowlist | Go · gRPC · Protobuf · MCP · Docker |
+| [kafka-mcp](https://github.com/mauricioacevedo/kafka-mcp) | Lets an AI inspect Kafka topics, consumer groups and lag, explains why consumers fall behind, and reads messages without disturbing consumers | Go · Kafka · franz-go · MCP · Docker |
 
 ### 🚀 Featured projects
 
