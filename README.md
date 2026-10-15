@@ -1,15 +1,31 @@
 # Hi, I'm Mauricio Acevedo 👋
 
-**Software Engineer · Tech Lead · Backend (Go & Java)** — Medellín, Colombia 🇨🇴
+**Senior Software Engineer · Tech Lead · Go & Java microservices** — Medellín, Colombia 🇨🇴
 
-I design and build backend systems and lead teams that ship them. These days I'm focused on
-**AI-assisted software development**: building tools and workflows on top of LLMs and
-[Claude Code](https://claude.com/claude-code) that make engineering teams faster without lowering the bar on quality.
+I've been building software since 2005. In recent years I've worked on backend platforms at
+**Uber** (via Truelogic), **Mercado Libre**, **Rappi** and **Conekta**, as a senior engineer, squad lead
+and technical leader. I specialize in microservices architecture and the whole delivery lifecycle,
+from design to production.
 
-- 🤖 Building developer tools with AI agents, MCP servers and Claude Code
-- 🧱 Backend engineering: REST APIs, messaging, containers and cloud deployments
-- 🧭 Tech leadership: architecture, code review culture, CI/CD and mentoring
+Today I use **AI-assisted development with [Claude Code](https://claude.com/claude-code)** every day to prototype faster,
+tune microservice performance and refactor production systems. I'm now building open-source tools in that space.
+
+- 🏗️ Microservices in Go and Java: gRPC/Protobuf APIs, Kafka, MySQL/PostgreSQL, AWS
+- 🧭 Leading teams: technical direction, mentoring, code quality and security
+- 🤖 AI-assisted engineering: Claude Code, agents and MCP
 - 📫 [LinkedIn](https://www.linkedin.com/in/mauricio-acevedo-7290352b5/) · mauricio.acevedo@gmail.com
+
+---
+
+### 💼 Experience highlights
+
+| Years | Company | Role | Highlights |
+|---|---|---|---|
+| 2022 – 2026 | **Truelogic** → Uber People Engineering | Senior Software Engineer | Led a large data-layer migration (Go, MySQL, GORM, Bazel). Built an admin search service with gRPC/Protobuf. Designed cross-service authentication. Directed a full-codebase security audit |
+| 2021 – 2022 | **Conekta** (Mexico) | Technical Leader | Led the Cashflow team: Go and Ruby microservices, PostgreSQL, MySQL, Kafka |
+| 2020 – 2021 | **Mercado Libre** | Senior Software Engineer | Insurtech team: Go, Node.js and Java microservices on AWS. Mentored new engineers |
+| 2019 – 2020 | **Rappi** | Squad Lead | Led the RappiMall backend team: polyglot microservices (Go, Node.js, Java), stock and pricing algorithms |
+| 2005 – 2019 | Summan, UNE EPM, OSP International | Consultant / Developer | Telecom platforms, automation and data analytics (Java/J2EE, Splunk) |
 
 ---
 
@@ -18,24 +34,26 @@ I design and build backend systems and lead teams that ship them. These days I'm
 **Languages:**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 **Backend & data:**
+![gRPC](https://img.shields.io/badge/gRPC%20%2F%20Protobuf-244C5A?style=flat&logo=google&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-**Cloud & DevOps:**
+**Cloud & tooling:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Bazel](https://img.shields.io/badge/Bazel-43A047?style=flat&logo=bazel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 
-**AI tooling:**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+**AI:**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat)
 
 ---
@@ -61,6 +79,12 @@ Uncomment and fill in as each project is published.
 | [go_vercel](https://github.com/mauricioacevedo/go_vercel) | Go HTTP handlers deployed as serverless functions | Go · Vercel |
 
 ---
+
+### 🎓 Education & certifications
+
+- **Systems Engineering (B.Sc.)**, Universidad de Antioquia · **Information Management Specialization**, Universidad de Medellín
+- Professional Scrum Master I (Scrum.org) · Golang Specialization (Coursera) · Machine Learning (Stanford/Coursera) · Gen AI for Fraud Detection (Coursera)
+- Currently taking the **Generative AI Software Engineering Specialization** (Coursera)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mauricioacevedo&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150"/>
